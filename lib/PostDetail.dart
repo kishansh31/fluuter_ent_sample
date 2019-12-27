@@ -38,6 +38,7 @@ class PostDetail extends StatelessWidget {
                       ListTile(
                         title: Text("User ID"),
                         subtitle: Text("${post.userId}"),
+                        //
                       ),
                     ],
                   ),
